@@ -9,6 +9,7 @@
   <a href="#frontend-documentation">Frontend Documentation</a> |
   <a href="#backend-documentation">Backend Documentation</a> |
   <a href="#contributing">Contributing</a> |
+  <a href="roadmap">ROADMAP</a> |
   <a href="#acknowledgements">Acknowledgements</a> |
   <a href="#license">License</a>
 </p>
@@ -28,25 +29,40 @@
 
 ## Frontend Documentation
 - [Frontend Design](docs/frontend-design.md)
-  
+
+---
+
 ## Backend Documentation
 - [Backend Design](docs/backend-design.md)
 - [API Design](docs/api-design.md)
 - [Database Schema](docs/database-schema.md)
 
+---
+
 ## Contributing
 - [Contributing Guide](docs/contributing.md)
+
+---
+
+## Roadmap
+- [TODOs](docs/roadmap.md)
+
+---
 
 ## Acknowledgements
 Special thanks to the **Group4_Blasters** for their contribution and collboration. 
 <br>
 Special gratitude to **Mrs Prabisha Khadka** for guidance throughout the project.
 
+---
+
 ### Team Members:
 - Amrit Ghimire
 - Abhishek Kushwaha
 - Kshitij Pandit
 - Preeti Pokharel
+
+---
 
 ## License
 This project is released under the terms of the [MIT License](https://mit-license.org/). See [LICENSE](LICENSE)
