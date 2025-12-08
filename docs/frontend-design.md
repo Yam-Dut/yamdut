@@ -26,6 +26,8 @@ The Yamdut follows the structured MVC pattern, ensuring clear seperation of resp
 - (Handled implicitly by ScreenManager + API client)
 - Controls screen transitions & handles user actions.
 
+---
+
 ### Project Structure
 ```
 .
