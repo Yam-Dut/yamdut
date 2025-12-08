@@ -3,15 +3,16 @@
 <img width="1915" height="686" alt="yamdut" src="https://github.com/user-attachments/assets/f42cb692-7726-4ff4-9469-b6b2a5346731" />
 </div>
 
-<div align="center">
-[Overview](#overview) |
-[Documentation](#documentation) |
-[Frontend Documentation](#frontend-documentation) |
-[Backend Documentation](#backend-documentation) |
-[Contributing](#contributing) |
-[Acknowledgements](#acknowledgements) |
-[License](#license)
-</div>
+<p align="center">
+  <a href="#overview">Overview</a> |
+  <a href="#documentation">Documentation</a> |
+  <a href="#frontend-documentation">Frontend Documentation</a> |
+  <a href="#backend-documentation">Backend Documentation</a> |
+  <a href="#contributing">Contributing</a> |
+  <a href="#acknowledgements">Acknowledgements</a> |
+  <a href="#license">License</a>
+</p>
+
 
 ## Overview
 `YamDut`
