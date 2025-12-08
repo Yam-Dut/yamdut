@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[Overview](#Overview) | [Documentation](#Documentation) | [Frontend Documentation](#frontend-documentation) | [Backend Documentation](#backend-documentation) | [Examples](#Examples) | [Aknowledgements](#Aknowledgements) | [License](#License)
+[Overview](#Overview) | [Documentation](#Documentation) | [Frontend Documentation](#frontend-documentation) | [Backend Documentation](#backend-documentation) | [Contributing](#contributing) | [Aknowledgements](#Aknowledgements) | [License](#License)
 </div>
 
 ## Overview
@@ -31,5 +31,5 @@
 ## Contributing
 - [Contributing Guide](docs/contributing.md)
 
-##License
+## License
 This project is released under the terms of the [MIT License](https://mit-license.org/). See [LICENSE](LICENSE)
