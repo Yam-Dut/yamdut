@@ -37,7 +37,7 @@
 ## Contributing
 - [Contributing Guide](docs/contributing.md)
 
-## Acknowledgement
+## Acknowledgements
 Special thanks to the **Group4_Blasters** for their contribution and collboration. 
 <br>
 Special gratitude to **Mrs Prabisha Khadka** for guidance throughout the project.
