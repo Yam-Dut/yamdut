@@ -23,7 +23,6 @@
 ## Documentation
 - [System Overview](docs/system-overview.md)
 - [Architecture](docs/architecture.md)
-- [Roadmap](docs/roadmap.md) 
 
 ---
 
